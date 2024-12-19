@@ -1,3 +1,7 @@
 [user]
 	name = Jess Turner
 	email = jessica.turner.cs@gmail.com
+[core]
+	edit = nvim -f
+[sequence]
+	editor = nvim -f
