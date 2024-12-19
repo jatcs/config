@@ -5,3 +5,5 @@
 	edit = nvim -f
 [sequence]
 	editor = nvim -f
+[alias]
+	issueb = git branch | grep
