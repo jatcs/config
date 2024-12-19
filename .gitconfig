@@ -7,4 +7,4 @@
 	editor = nvim -f
 [alias]
 	rw = commit --amend -m
-	issueb = git branch | grep
+	issueb = !git branch | grep
